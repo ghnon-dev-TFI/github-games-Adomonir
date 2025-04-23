@@ -1,8 +1,8 @@
-## Welcome to GitHub Games
+## Welcome to GitHub Games 2.0
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: [https://githubschool.github.io/github-games/](https://ghnon-dev-tfi.github.io/github-games-Adomonir/)
+You can play the game at: https://ghnon-dev-tfi.github.io/github-games-Adomonir/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
